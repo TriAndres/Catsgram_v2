@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68ee82af-0382-4303-ba15-e0f3fd479bc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sprint_10_maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sprint_10_maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sprint_10_maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sprint_10_maven/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/src/main/java/ru/yandex/practicum/lesson1/Practicum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/src/main/java/ru/yandex/practicum/lesson2/Practicum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/src/main/java/ru/yandex/practicum/lesson3/Practicum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_sprint_10_slf4j/src/main/java/ru/yandex/practicum/lesson4/Practicum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/src/main/java/ru/yandex/practicum/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/src/main/java/ru/yandex/practicum/lesson1/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/src/main/java/ru/yandex/practicum/lesson1/MyAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/src/main/java/ru/yandex/practicum/lesson1/ObjectInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/src/main/java/ru/yandex/practicum/lesson1/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_spring_10_annotation/src/main/java/ru/yandex/practicum/lesson2/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base64-encoder/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base64-encoder/src/main/java/ru/yandex/practicum/Encoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base64-encoder/src/main/java/ru/yandex/practicum/info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/calculators/CalculatorsFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/calculators/CalculatorsLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/calculators/DiscountCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/calculators/PriceCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/calculators/SaleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/calculators/types/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/calculators/types/PriceInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/calculators/types/PriceItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/exceptions/IncorrectDiscountException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/java/ru/yandex/practicum/exceptions/IncorrectFinalPriceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/main/resources/prices-information.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/test/java/ru/yandex/practicum/calculators/DiscountCalculatorTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-surefire-practice/src/test/java/ru/yandex/practicum/calculators/SaleCalculatorTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minersl4j/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minersl4j/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minersl4j/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minersl4j/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minersl4j/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minersl4j/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minersl4j/src/main/java/ru/yandex/practicum/Blockchain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minersl4j/src/main/java/ru/yandex/practicum/Miner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/musrec-core/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/musrec-core/src/main/java/ru/yandex/practicum/recommender/Recommender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/musrec-core/src/main/java/ru/yandex/practicum/recommender/RecommenderImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/musrec-core/src/main/java/ru/yandex/practicum/recommender/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/musrec-ui/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../musrec/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2mkxt2Kk4RmXiRVzDa6Gsy8LV3Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.catsgram_v2 [compile].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ee82af-0382-4303-ba15-e0f3fd479bc7" name="Changes" comment="" />
+      <created>1727634589728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727634589728</updated>
+    </task>
+    <servers />
+  </component>
+</project>
